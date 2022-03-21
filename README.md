@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently working as a Cloud Infra based on Kafka and Java microservices at Trend Micro.
-Recently interested in Rust, on my way from Pythonista to Rustaceans 🦀
+Recently interested in Rust 🦀
 
 <!--
 **morristai/morristai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
