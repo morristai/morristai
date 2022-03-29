@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a Cloud Infra based on Kafka and Java microservices at Trend Micro.
+I'm currently working as a Cloud Infra based on Kafka and Java microservices.
 Recently interested in Rust 🦀
 
 <p align="center">
