@@ -5,6 +5,6 @@
 I'm **Morris**.
 - I'm interested in data infrastructure and distributed systems.
 - I'm currently working at a cybersecurity company, focusing on streaming, lakehouse systems, and optimization. 
-- My personal blog: [morristai.github.io](https://morristai.github.io)
+- My personal blog: [300watts.me](https://300watts.me)
 - How to reach me: morristai01@gmail.com
 
